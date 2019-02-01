@@ -1,0 +1,37 @@
+{
+  "name": "cordova-plugin-disablecustomkeyboards",
+  "version": "1.0.1",
+  "description": "This plugin can disable 3-party keybord for IOS",
+  "cordova": {
+    "id": "cordova-plugin-disablecustomkeyboards",
+    "platforms": [
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Dalianguai/cordova-plugin-disablecustomkeyboards.git"
+  },
+  "keywords": [
+    "keyboard",
+    "disable",
+    "custom",
+    "ios",
+    "plugin",
+    "cordova",
+    "ecosystem:cordova",
+    "cordova-ios"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    }
+  ],
+  "author": "Cheng Xiao",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Dalianguai/cordova-plugin-disablecustomkeyboards/issues"
+  },
+  "homepage": "https://github.com/Dalianguai/cordova-plugin-disablecustomkeyboards#readme"
+}
